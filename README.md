@@ -1,3 +1,7 @@
+### Overview
+- Ruby on Railsのバックエンドをメインとしながら、必要に応じてerbで書かれたフロントエンドやerbとVue.jsの機能改修、Nuxt.jsの改修などを経験しました。
+- また、AWSでのWebサービスの環境構築も一通り経験しています。
+
 ### Languages
 - Ruby
 - JavaScript
@@ -18,7 +22,3 @@
 
 ### Career
 - Astrea
-
-### Overview
-- Ruby on Railsのバックエンドをメインとしながら、必要に応じてerbで書かれたフロントエンドやerbとVue.jsの機能改修、Nuxt.jsの改修などを経験しました。
-- また、AWSでのWebサービスの環境構築も一通り経験しています。
