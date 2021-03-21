@@ -1,13 +1,14 @@
 ### Languages
+
 - Ruby
-- JavaScript
 - TypeScript
 
 ### Frameworks
-- Ruby on Rails
-- React
+
+- RubyOnRails
+- React.js
 - Vue.js
-- Nuxt.js
 
 ### Infrastructures
+
 - AWS
